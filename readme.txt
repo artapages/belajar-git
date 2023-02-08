@@ -1,1 +1,1 @@
-ini isinya readme.txt ini tambahan
+ini isinya readme.txt
